@@ -1,1 +1,1 @@
-# Assignment07-JasonSorio
+This project has working PlayerPrefs. Use it to save data when the user closes the application.
