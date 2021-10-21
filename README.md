@@ -1,1 +1,3 @@
-This project has working PlayerPrefs. Use it to save data when the user closes the application.
+# PlayerPrefs
+
+Use it to save data when the user closes the application.
